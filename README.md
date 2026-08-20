@@ -65,3 +65,13 @@ generated from it. If you want to change something:
 Everything — the random-molecule generator, the IUPAC name builder, the
 skeletal-structure SVG renderer, the answer checker, and all four lessons —
 lives in that one file, organised top to bottom in that order.
+
+AI Disclosure
+
+This project was developed with the assistance of AI tools, particularly Claude.
+
+AI was used to help generate and structure parts of the application's code, UI, and implementation. I directed the project, defined the educational goal and requirements, tested the application, reviewed the generated code, and iterated on the result.
+
+I am intentionally disclosing the use of AI because I believe it is important to distinguish between using AI as a development tool and claiming that all code was written manually.
+
+The project is also an opportunity for me and other students to learn about nomenclature of organic compounds.
